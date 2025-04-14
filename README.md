@@ -27,9 +27,11 @@
     pip install pygame scapy psutil
     ```
 3. exe 파일 만들기
-   ```bash
-   pip install pyinstaller
-   pyinstaller --noconsole --onefile gersang_alarm.py
+    ```bash
+    pip install pyinstaller
+    ```
+    ```bash
+    pyinstaller --noconfirm --noconsole --onefile --windowed --icon=favicon.ico gersang_alarm.py
     ```
 
 ## 📦 설치 및 사용 방법
@@ -66,6 +68,7 @@ MIT License
 ---
 
 ## 🙏 만든 사람
+
 ![image](https://github.com/user-attachments/assets/c1d8ec2a-f89e-42cd-ad88-453831cb60ff)
 
 신구섭 돈좀..
