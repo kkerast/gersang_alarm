@@ -68,4 +68,4 @@ MIT License
 ## 🙏 만든 사람
 ![image](https://github.com/user-attachments/assets/c1d8ec2a-f89e-42cd-ad88-453831cb60ff)
 
-신구섭 돈좀…
+신구섭 돈좀..
